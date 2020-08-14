@@ -1,0 +1,7 @@
+name: Invgamr
+version: 1.0
+author: Juliiiaan
+main: de.julian.invgame1.Invgame1
+commands:
+  accept:
+  challenge:
